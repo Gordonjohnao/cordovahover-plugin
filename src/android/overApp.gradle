@@ -1,5 +1,9 @@
 apply plugin: 'com.android.application'
 
+repositories {
+    mavenCentral()
+}
+
 dependencies {
-      implementation 'com.makeramen:roundedimageview:2.2.1'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
 }
