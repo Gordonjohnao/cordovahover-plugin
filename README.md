@@ -4,14 +4,14 @@ Draw Over All Apps plugin for Cordova
 
 Android Cordova Plugin that uses draw over all apps feature to display a HTML Web view
 
-This plugin was successfully tested on Android 5.1 , also on Marshmallow (Android 6.0).
+This plugin was successfully tested on Android 33.
 
 ## Install  ##
 
-	cordova plugin add cordova-plugin-drawoverapps
+	cordova plugin add cordovahover-plugin
 It is also possible to install via repo url directly 
 
-    cordova plugin add https://github.com/ahmedwahba/cordova-plugin-drawoverapps
+    cordova plugin add https://github.com/Gordonjohnao/cordovahover-plugin
     
 
 
@@ -96,7 +96,7 @@ It closes over app webview from one of the webview UI or event
 ## Licence ##
 
 
-Copyright (c) 2017	Ahmed Wahba & Mohamed Sayed
+Copyright (c) 2023	Gordon Johnson
 
 Permission is here by granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
